@@ -7,7 +7,7 @@ so if you know who is the author, please let' me known.
 ##reference
 
 * [pdf file format analysis(chinese)](http://mouapp.com/) 
-* [pdf crypto inside 01(chinese)](http://ace.ajax.org/)
+* [pdf crypto inside 01(chinese)](https://github.com/crazydiamondzgy/hack-pdf-cracker-c-app/ref/pdf02.md)
 * [pdf crypto inside 02(chinese)](http://jquery.com)
 * [pdf crypto inside 03(chinese)](http://jquery.com)
 * [pdf crypto inside 04(chinese)](http://jquery.com)
